@@ -1,1 +1,26 @@
-{}
+{
+  "Array": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Divide and Conquer": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Sorting": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Heap (Priority Queue)": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Merge Sort": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Bucket Sort": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Radix Sort": [
+    "leetcode/0912-sort-an-array"
+  ],
+  "Counting Sort": [
+    "leetcode/0912-sort-an-array"
+  ]
+}

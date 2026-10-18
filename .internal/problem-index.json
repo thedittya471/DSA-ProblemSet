@@ -1,0 +1,21 @@
+[
+  {
+    "folderId": "leetcode/0912-sort-an-array",
+    "frontendId": "912",
+    "title": "Sort an Array",
+    "slug": "sort-an-array",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Bucket Sort",
+      "Radix Sort",
+      "Counting Sort"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-10-18T17:50:58.113Z"
+  }
+]
