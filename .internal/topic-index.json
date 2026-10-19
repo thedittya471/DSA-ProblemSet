@@ -2,13 +2,15 @@
   "Array": [
     "leetcode/0912-sort-an-array",
     "leetcode/0014-longest-common-prefix",
-    "leetcode/0027-remove-element"
+    "leetcode/0027-remove-element",
+    "leetcode/0075-sort-colors"
   ],
   "Divide and Conquer": [
     "leetcode/0912-sort-an-array"
   ],
   "Sorting": [
-    "leetcode/0912-sort-an-array"
+    "leetcode/0912-sort-an-array",
+    "leetcode/0075-sort-colors"
   ],
   "Heap (Priority Queue)": [
     "leetcode/0912-sort-an-array"
@@ -32,6 +34,13 @@
     "leetcode/0014-longest-common-prefix"
   ],
   "Two Pointers": [
-    "leetcode/0027-remove-element"
+    "leetcode/0027-remove-element",
+    "leetcode/0075-sort-colors"
+  ],
+  "Quicksort": [
+    "leetcode/0075-sort-colors"
+  ],
+  "Bubble Sort": [
+    "leetcode/0075-sort-colors"
   ]
 }

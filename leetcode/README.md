@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**3** problems solved — 2 Easy · 1 Medium · 0 Hard
+**4** problems solved — 2 Easy · 2 Medium · 0 Hard
 
 ## Contents
 
@@ -16,6 +16,7 @@
 | --- | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 
 ## By Difficulty
@@ -27,10 +28,11 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 
-### Medium (1)
+### Medium (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 
 ### Hard (0)
@@ -40,13 +42,23 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (3)</summary>
+<summary>Array (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Bubble Sort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 
 </details>
 
@@ -96,6 +108,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Quicksort (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Radix Sort (1)</summary>
 
 | # | Title | Difficulty |
@@ -105,10 +126,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (1)</summary>
+<summary>Sorting (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 
 </details>
@@ -132,23 +154,25 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Two Pointers (1)</summary>
+<summary>Two Pointers (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 
 </details>
 
 ## By Language
 
 <details>
-<summary>python (3)</summary>
+<summary>python (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 
 </details>
@@ -157,6 +181,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | 2026-10-19 |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-10-19 |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | 2026-10-19 |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | 2026-10-18 |
