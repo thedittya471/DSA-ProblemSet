@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "27",
+  "frontendId": "27",
+  "title": "Remove Element",
+  "slug": "remove-element",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "0 ms",
+  "memory": "12.2 MB",
+  "submissionId": "2175889982",
+  "acceptedAt": "2026-10-19T04:39:47.521Z",
+  "updatedAt": "2026-10-19T04:39:48.509Z",
+  "url": "https://leetcode.com/problems/remove-element/",
+  "version": 1
+}

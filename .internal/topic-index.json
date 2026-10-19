@@ -1,7 +1,8 @@
 {
   "Array": [
     "leetcode/0912-sort-an-array",
-    "leetcode/0014-longest-common-prefix"
+    "leetcode/0014-longest-common-prefix",
+    "leetcode/0027-remove-element"
   ],
   "Divide and Conquer": [
     "leetcode/0912-sort-an-array"
@@ -29,5 +30,8 @@
   ],
   "Trie": [
     "leetcode/0014-longest-common-prefix"
+  ],
+  "Two Pointers": [
+    "leetcode/0027-remove-element"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "leetcode": [
     "leetcode/0912-sort-an-array",
-    "leetcode/0014-longest-common-prefix"
+    "leetcode/0014-longest-common-prefix",
+    "leetcode/0027-remove-element"
   ]
 }

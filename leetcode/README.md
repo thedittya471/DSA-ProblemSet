@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**2** problems solved — 1 Easy · 1 Medium · 0 Hard
+**3** problems solved — 2 Easy · 1 Medium · 0 Hard
 
 ## Contents
 
@@ -15,15 +15,17 @@
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 
 ## By Difficulty
 
-### Easy (1)
+### Easy (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 
 ### Medium (1)
 
@@ -38,11 +40,12 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (2)</summary>
+<summary>Array (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 
 </details>
@@ -128,14 +131,24 @@ _No problems solved yet._
 
 </details>
 
+<details>
+<summary>Two Pointers (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+
+</details>
+
 ## By Language
 
 <details>
-<summary>python (2)</summary>
+<summary>python (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 
 </details>
@@ -144,5 +157,6 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-10-19 |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | 2026-10-19 |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | 2026-10-18 |
