@@ -17,5 +17,19 @@
     ],
     "language": "python",
     "acceptedAt": "2026-10-18T17:50:58.113Z"
+  },
+  {
+    "folderId": "leetcode/0014-longest-common-prefix",
+    "frontendId": "14",
+    "title": "Longest Common Prefix",
+    "slug": "longest-common-prefix",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "String",
+      "Trie"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-10-19T04:23:00.970Z"
   }
 ]

@@ -1,6 +1,7 @@
 {
   "Array": [
-    "leetcode/0912-sort-an-array"
+    "leetcode/0912-sort-an-array",
+    "leetcode/0014-longest-common-prefix"
   ],
   "Divide and Conquer": [
     "leetcode/0912-sort-an-array"
@@ -22,5 +23,11 @@
   ],
   "Counting Sort": [
     "leetcode/0912-sort-an-array"
+  ],
+  "String": [
+    "leetcode/0014-longest-common-prefix"
+  ],
+  "Trie": [
+    "leetcode/0014-longest-common-prefix"
   ]
 }

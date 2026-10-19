@@ -1,5 +1,6 @@
 {
   "python": [
-    "leetcode/0912-sort-an-array"
+    "leetcode/0912-sort-an-array",
+    "leetcode/0014-longest-common-prefix"
   ]
 }
