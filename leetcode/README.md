@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**5** problems solved — 2 Easy · 3 Medium · 0 Hard
+**6** problems solved — 2 Easy · 4 Medium · 0 Hard
 
 ## Contents
 
@@ -17,6 +17,7 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 
@@ -29,11 +30,12 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 
-### Medium (3)
+### Medium (4)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
 
@@ -66,11 +68,21 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Bucket Sort (1)</summary>
+<summary>Bucket Sort (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Counting (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 
 </details>
 
@@ -102,10 +114,20 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Heap (Priority Queue) (1)</summary>
+<summary>Hash Table (1)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Heap (Priority Queue) (2)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 
 </details>
@@ -138,22 +160,24 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (3)</summary>
+<summary>Sorting (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>String (1)</summary>
+<summary>String (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 
 </details>
 
@@ -180,13 +204,14 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (5)</summary>
+<summary>python (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
@@ -196,6 +221,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-28 |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | 2026-10-19 |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | 2026-10-19 |

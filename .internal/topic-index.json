@@ -12,16 +12,19 @@
   "Sorting": [
     "leetcode/0912-sort-an-array",
     "leetcode/0075-sort-colors",
-    "leetcode/1877-minimize-maximum-pair-sum-in-array"
+    "leetcode/1877-minimize-maximum-pair-sum-in-array",
+    "leetcode/0451-sort-characters-by-frequency"
   ],
   "Heap (Priority Queue)": [
-    "leetcode/0912-sort-an-array"
+    "leetcode/0912-sort-an-array",
+    "leetcode/0451-sort-characters-by-frequency"
   ],
   "Merge Sort": [
     "leetcode/0912-sort-an-array"
   ],
   "Bucket Sort": [
-    "leetcode/0912-sort-an-array"
+    "leetcode/0912-sort-an-array",
+    "leetcode/0451-sort-characters-by-frequency"
   ],
   "Radix Sort": [
     "leetcode/0912-sort-an-array"
@@ -30,7 +33,8 @@
     "leetcode/0912-sort-an-array"
   ],
   "String": [
-    "leetcode/0014-longest-common-prefix"
+    "leetcode/0014-longest-common-prefix",
+    "leetcode/0451-sort-characters-by-frequency"
   ],
   "Trie": [
     "leetcode/0014-longest-common-prefix"
@@ -48,5 +52,11 @@
   ],
   "Greedy": [
     "leetcode/1877-minimize-maximum-pair-sum-in-array"
+  ],
+  "Hash Table": [
+    "leetcode/0451-sort-characters-by-frequency"
+  ],
+  "Counting": [
+    "leetcode/0451-sort-characters-by-frequency"
   ]
 }

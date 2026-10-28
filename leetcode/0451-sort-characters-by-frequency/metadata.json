@@ -1,0 +1,25 @@
+{
+  "platform": "leetcode",
+  "problemId": "451",
+  "frontendId": "451",
+  "title": "Sort Characters By Frequency",
+  "slug": "sort-characters-by-frequency",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "16 ms",
+  "memory": "13.2 MB",
+  "submissionId": "2183792309",
+  "acceptedAt": "2026-10-28T09:40:34.085Z",
+  "updatedAt": "2026-10-28T09:40:35.048Z",
+  "url": "https://leetcode.com/problems/sort-characters-by-frequency/",
+  "version": 1
+}
