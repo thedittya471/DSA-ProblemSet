@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "1988",
+  "frontendId": "1877",
+  "title": "Minimize Maximum Pair Sum in Array",
+  "slug": "minimize-maximum-pair-sum-in-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python",
+  "runtime": "1181 ms",
+  "memory": "24.8 MB",
+  "submissionId": "2183780371",
+  "acceptedAt": "2026-10-28T09:21:02.260Z",
+  "updatedAt": "2026-10-28T09:21:03.382Z",
+  "url": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/",
+  "version": 1
+}
