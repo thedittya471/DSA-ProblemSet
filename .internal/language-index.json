@@ -5,6 +5,7 @@
     "leetcode/0027-remove-element",
     "leetcode/0075-sort-colors",
     "leetcode/1877-minimize-maximum-pair-sum-in-array",
-    "leetcode/0451-sort-characters-by-frequency"
+    "leetcode/0451-sort-characters-by-frequency",
+    "leetcode/1833-maximum-ice-cream-bars"
   ]
 }

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**6** problems solved — 2 Easy · 4 Medium · 0 Hard
+**7** problems solved — 2 Easy · 5 Medium · 0 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | Array, Greedy, Sorting, Counting Sort |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 
 ## By Difficulty
@@ -30,13 +31,14 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 
-### Medium (4)
+### Medium (5)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Array, Greedy, Sorting, Counting Sort |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Array, Two Pointers, Greedy, Sorting |
 
 ### Hard (0)
@@ -46,7 +48,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (5)</summary>
+<summary>Array (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -54,6 +56,7 @@ _No problems solved yet._
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
@@ -87,11 +90,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Counting Sort (1)</summary>
+<summary>Counting Sort (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 
 </details>
 
@@ -105,10 +109,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (1)</summary>
+<summary>Greedy (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
@@ -160,13 +165,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (4)</summary>
+<summary>Sorting (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
@@ -204,7 +210,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (6)</summary>
+<summary>python (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -213,6 +219,7 @@ _No problems solved yet._
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
 
 </details>
@@ -221,6 +228,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | 2026-10-29 |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | 2026-10-28 |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | 2026-10-19 |
