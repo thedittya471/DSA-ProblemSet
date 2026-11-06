@@ -121,5 +121,18 @@
     ],
     "language": "python",
     "acceptedAt": "2026-11-06T17:23:57.275Z"
+  },
+  {
+    "folderId": "leetcode/0034-find-first-and-last-position-of-element-in-sorted-array",
+    "frontendId": "34",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "slug": "find-first-and-last-position-of-element-in-sorted-array",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "python",
+    "acceptedAt": "2026-11-06T20:09:05.752Z"
   }
 ]

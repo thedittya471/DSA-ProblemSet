@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**8** problems solved — 2 Easy · 6 Medium · 0 Hard
+**9** problems solved — 2 Easy · 7 Medium · 0 Hard
 
 ## Contents
 
@@ -17,6 +17,7 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | Array, Two Pointers, Sorting |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy | Array, Two Pointers |
+| 0034 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | Array, Binary Search |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
@@ -32,11 +33,12 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Array, Two Pointers |
 
-### Medium (6)
+### Medium (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0015 | [3Sum](0015-3sum/README.md) | Array, Two Pointers, Sorting |
+| 0034 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Array, Binary Search |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
@@ -50,17 +52,27 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (7)</summary>
+<summary>Array (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0034 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium |
 | 1877 | [Minimize Maximum Pair Sum in Array](1877-minimize-maximum-pair-sum-in-array/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Binary Search (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0034 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium |
 
 </details>
 
@@ -215,13 +227,14 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python (8)</summary>
+<summary>python (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium |
 | 0027 | [Remove Element](0027-remove-element/README.md) | Easy |
+| 0034 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | Medium |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0912 | [Sort an Array](0912-sort-an-array/README.md) | Medium |
@@ -234,6 +247,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0034 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | 2026-11-06 |
 | 0015 | [3Sum](0015-3sum/README.md) | Medium | 2026-11-06 |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/README.md) | Medium | 2026-10-29 |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
